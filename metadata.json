@@ -1,0 +1,6 @@
+{
+  "name": "UPSEEK AI",
+  "description": "Think Smarter. Discover More. Next-generation AI platform featuring real-time streaming, deep reasoning, multimodal uploads, and an elegant 3D neural interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
